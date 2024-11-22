@@ -9,6 +9,13 @@ Offline Listening: Download episodes and listen on-the-go without an internet co
 Personalized Recommendations: Get episode suggestions based on your listening habits.
 Enjoy an optimized, personalized, and visually dynamic podcast experience on Android!
 
+TEAM MEMBERS:
+THARSAN.S-711222104056
+SUHAAS V-711222104052
+SOMESWARAN T-711222104047
+MOHAMMED FAZIL M-711222104302
+
+
 
 
 Demo link : https://drive.google.com/file/d/1KNYSyV6fw5lxYvP6VsuIB2jLJT14lDhQ/view?usp=drive_link
